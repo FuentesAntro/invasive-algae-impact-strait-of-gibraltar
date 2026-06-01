@@ -29,7 +29,7 @@ Using **198 qualitative citations** extracted from ethnographic interviews, the 
 ![Heatmap](figures/Intensidad%20de%20la%20Problem%C3%A1tica%20Pesquera%20Mapa%20de%20Calor%20de%20los%20C....png)
 
 ### Impact Flow — Sankey Diagram
-![Sankey](figures/Visualizaci%C3%B3n%20de%20la%20Carga%20de%20Conflicto%20por%20Puerto%20Un%20An%C3%A1lisis%20de%20....png)
+![Sankey](figures/Análisis de Correspondencias Simples Asociación entre Puertos y Conflictos Pesqueros.png)
 
 ### Conflict Interconnection Network
 ![Network](figures/An%C3%A1lisis%20de%20Redes%20de%20los%20Conflictos%20Socio-Ambientales%20en%20el%20Estr....png)
