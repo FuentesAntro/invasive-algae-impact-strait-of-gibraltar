@@ -25,7 +25,7 @@ Using **198 qualitative citations** extracted from ethnographic interviews, the 
 ## 📊 Visualisations
 
 ### Conflict Intensity by Port — Heatmap
-![Heatmap](figures/Intensidad%20de%20la%20Problem%C3%A1tica%20Pesquera%20Mapa%20de%20Calor%20de%20los%20Conflictos%20en....png)
+![Heatmap](figures/Intensidad%20de%20la%20Problem%C3%A1tica%20Pesquera%20Mapa%20de%20Calor%20de%20los%20Conflictos%20en%20el%20Estrecho.png)
 
 ### Impact Flow — Sankey Diagram
 ![Sankey](figures/Visualizaci%C3%B3n%20de%20la%20Carga%20de%20Conflicto%20por%20Puerto%20Un%20An%C3%A1lisis%20de%20Sankey.png)
@@ -34,7 +34,7 @@ Using **198 qualitative citations** extracted from ethnographic interviews, the 
 ![Network](figures/An%C3%A1lisis%20de%20Redes%20de%20los%20Conflictos%20Socio-Ambientales%20en%20el%20Estrecho.png)
 
 ### Correspondence Map — Ports vs. Conflicts
-![Correspondence](figures/An%C3%A1lisis%20de%20Correspondencias%20Simples%20Asociaci%C3%B3n%20entre%20Puertos%20y%20Conflictos....png)
+![Correspondence](figures/An%C3%A1lisis%20de%20Correspondencias%20Simples%20Asociaci%C3%B3n%20entre%20Puertos%20y%20Conflictos%20Pesqueros.png)
 
 ### Critical Flows — Barbate, Conil and Tarifa
 ![Flows](figures/Flujos%20Cr%C3%ADticos%20de%20Conflictos%20Pesqueros%20Barbate%2C%20Conil%20y%20Tarifa.png)
