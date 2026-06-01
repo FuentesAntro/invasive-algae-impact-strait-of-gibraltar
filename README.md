@@ -54,7 +54,7 @@ Using **198 qualitative citations** extracted from ethnographic interviews, the 
 ```bash
 
 ├── figures/        # R and ATLAS.ti visualisations
-├── report/         # Full report (PDF)
+├── Análisis ATLAS.ti + R.pdf
 └── README.md
 ```
 
