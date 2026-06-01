@@ -55,6 +55,9 @@ Using **198 qualitative citations** extracted from ethnographic interviews, the 
 ├── report/         # Full report (PDF)
 └── README.md
 
+## 📄 Full Report
+[Download the full analysis report (PDF)](report/Análisis_ATLAS_ti___R.pdf)
+
 ---
 
 ## 👤 Author
