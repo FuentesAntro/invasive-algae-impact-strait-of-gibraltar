@@ -51,9 +51,12 @@ Using **198 qualitative citations** extracted from ethnographic interviews, the 
 ---
 
 ## 📁 Repository Structure
+```bash
+
 ├── figures/        # R and ATLAS.ti visualisations
 ├── report/         # Full report (PDF)
 └── README.md
+```
 
 ## 📄 Full Report
 [Download the full analysis report (PDF)](Análisis%20ATLAS.ti%20%2B%20R.pdf)
