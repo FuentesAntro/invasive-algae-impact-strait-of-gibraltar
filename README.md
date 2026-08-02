@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 What is this project?
+## What is this project?
 
 This project diagnoses the socio-environmental impact of the invasive algae *Rugulopteryx okamurae* on artisanal fishing communities in the Strait of Gibraltar.
 
@@ -22,7 +22,7 @@ Using **198 qualitative citations** extracted from ethnographic interviews, the 
 
 ---
 
-## 📊 Visualisations
+## Visualisations
 
 ### Conflict Intensity by Port — Heatmap
 ![Heatmap](figures/Intensidad%20de%20la%20Problem%C3%A1tica%20Pesquera%20Mapa%20de%20Calor%20de%20los%20Conflictos%20en%20el%20Estrecho.png)
@@ -41,7 +41,7 @@ Using **198 qualitative citations** extracted from ethnographic interviews, the 
 
 ---
 
-## 🔍 Main Findings
+## Main Findings
 
 - **Barbate** is the most critically affected port — conflict mentions for fishing grounds (20) and invasive algae (19) indicate near-total collapse of usable sea space
 - **Conil and Tarifa** show a more distributed conflict profile, with greater concern for economy and generational succession
@@ -50,7 +50,7 @@ Using **198 qualitative citations** extracted from ethnographic interviews, the 
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ```bash
 
 ├── figures/        # R and ATLAS.ti visualisations
@@ -58,12 +58,12 @@ Using **198 qualitative citations** extracted from ethnographic interviews, the 
 └── README.md
 ```
 
-## 📄 Full Report
+## Full Report
 [Download the full analysis report (PDF)](Análisis%20ATLAS.ti%20%2B%20R.pdf)
 
 ---
 
-## 👤 Author
+## Author
 
 **Antonio Fuentes Moreno**  
 Anthropology Graduate · Social Data Analyst  
