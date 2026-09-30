@@ -12,7 +12,7 @@ Using **198 qualitative citations** extracted from ethnographic interviews, the 
 
 ---
 
-## 🛠️ Methods & Tools
+## Methods & Tools
 
 | Tool | Use |
 |------|-----|
